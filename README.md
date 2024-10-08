@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-In this project, you'll build a simple React-based quiz app, integrated with AWS Amplify for hosting and AWS Cognito for user authentication. The app demonstrates how to implement continuous integration and continuous deployment (CI/CD) through GitHub. Once complete, the project will be fully deployed on a live Amplify URL, allowing you to showcase it to the world. It’s a great hands-on example of building scalable, serverless applications with modern tools!
+In this project, I built a simple React-based quiz app, integrated with AWS Amplify for hosting and AWS Cognito for user authentication. The app demonstrates how to implement continuous integration and continuous deployment (CI/CD) through GitHub. Once complete, the project will be fully deployed on a live Amplify URL, allowing you to showcase it to the world. It’s a great hands-on example of building scalable, serverless applications with modern tools!
 <br />
 
 
